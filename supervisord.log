@@ -1,0 +1,38 @@
+2023-10-31 20:17:04,009 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2023-10-31 20:17:04,011 INFO supervisord started with pid 1
+2023-10-31 20:17:05,019 INFO spawned: 'nginx' with pid 7
+2023-10-31 20:17:05,027 INFO spawned: 'php-fpm' with pid 8
+2023-10-31 20:17:06,100 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-10-31 20:17:06,101 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-10-31 20:21:02,905 WARN received SIGTERM indicating exit request
+2023-10-31 20:21:02,909 INFO waiting for nginx, php-fpm to die
+2023-10-31 20:21:02,938 INFO stopped: php-fpm (exit status 0)
+2023-10-31 20:21:02,970 INFO stopped: nginx (exit status 0)
+2023-10-31 20:21:03,280 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2023-10-31 20:21:03,281 INFO supervisord started with pid 1
+2023-10-31 20:21:04,289 INFO spawned: 'nginx' with pid 7
+2023-10-31 20:21:04,293 INFO spawned: 'php-fpm' with pid 8
+2023-10-31 20:21:05,355 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-10-31 20:21:05,356 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-10-31 20:24:18,697 WARN received SIGTERM indicating exit request
+2023-10-31 20:24:18,699 INFO waiting for nginx, php-fpm to die
+2023-10-31 20:24:18,708 INFO stopped: php-fpm (exit status 0)
+2023-10-31 20:24:18,738 INFO stopped: nginx (exit status 0)
+2023-10-31 20:25:14,204 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2023-10-31 20:25:14,207 INFO supervisord started with pid 1
+2023-10-31 20:25:15,216 INFO spawned: 'nginx' with pid 7
+2023-10-31 20:25:15,223 INFO spawned: 'php-fpm' with pid 8
+2023-10-31 20:25:16,283 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-10-31 20:25:16,285 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-10-31 20:26:23,970 INFO reaped unknown pid 54 (exit status 0)
+2023-10-31 20:27:44,302 INFO reaped unknown pid 343 (exit status 0)
+2023-10-31 20:37:18,424 WARN received SIGTERM indicating exit request
+2023-10-31 20:37:18,438 INFO waiting for nginx, php-fpm to die
+2023-10-31 20:37:18,460 INFO stopped: php-fpm (exit status 0)
+2023-10-31 20:37:18,509 INFO stopped: nginx (exit status 0)
+2023-10-31 20:37:18,940 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2023-10-31 20:37:18,941 INFO supervisord started with pid 1
+2023-10-31 20:37:19,947 INFO spawned: 'nginx' with pid 7
+2023-10-31 20:37:19,952 INFO spawned: 'php-fpm' with pid 8
+2023-10-31 20:37:20,994 INFO success: nginx entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2023-10-31 20:37:20,995 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
